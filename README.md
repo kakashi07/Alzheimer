@@ -12,6 +12,8 @@ In this project, the MRI dataset of clinical patients for the hippocampus region
 
 Finally, we experimented with different ML algorithms to find the best algorithm. In our case, SVM turned out to be the superior algorithm with **97% test accuracy.**
 
+For more details : See the **Published Report.pdf**
+
 ## Figure 1: Top 10 PCA Features
 ![img4](/images/img1.png)
 
